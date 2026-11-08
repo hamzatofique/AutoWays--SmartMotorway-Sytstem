@@ -5,9 +5,9 @@ A smart motorway operations system built on a **29-table PostgreSQL database**. 
 
 > University Database Systems course project.
 > **Group member:** Hamza Toufeeque | **Roll No:** BCSF25M529
-:** Ahmad Mehmood | **Roll No:** BCSF25M532
-:** Hamza Jamal Asif | **Roll No:** BCSF25M550
-:** Shaherr Imran | **Roll No:** BCSF25M557
+: Ahmad Mehmood | **Roll No:** BCSF25M532
+: Hamza Jamal Asif | **Roll No:** BCSF25M550
+: Shaherr Imran | **Roll No:** BCSF25M557
 
 ---
 
