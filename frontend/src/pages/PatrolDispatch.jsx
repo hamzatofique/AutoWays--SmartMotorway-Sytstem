@@ -1,0 +1,3 @@
+export default function PatrolDispatch() {
+  return <div className="page"><h1>Patrol Dispatch</h1><p>Incidents and unit dispatch will appear here.</p></div>;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
