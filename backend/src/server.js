@@ -6,6 +6,7 @@ const pool =require('./config/db');
 const app=express();
 app.use(cors());
 app.use(express.json());
+app.use('/api', require('./routes/toll'));
 app.get('/api/health',async(req,res)=>{
     try{
         const r=await pool.query('SELECT NOW() AS time');
